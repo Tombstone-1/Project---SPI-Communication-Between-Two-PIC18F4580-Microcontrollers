@@ -82,7 +82,5 @@ A **Proteus simulation file** (`.pdsprj`) is included in this repository for tes
 
 ---
 
-## 📝 License
 
-This project is open-source and free to use for educational or personal purposes.
 
